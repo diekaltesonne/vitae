@@ -18,19 +18,18 @@ title: Ilya Trifonov's Resume
 name: Ilya Trifonov
 email: trifonoffilyhof@gmail.com
 email_full: mailto:trifonoffilyhof@gmail.com
-website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
-github: trending
-twitter: twitter
-tel: 0000 
-tel_full: tel:+0000
-google_maps: ''
+website: 
+website_full:
+github: diekaltesonne
+tel: 
+tel_full:
+google_maps: 
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
-google_analytics: UA-69300817-1
+  street: 
+  postcode: 
+  city: 
+  country: 
+google_analytics: 
 
 # needed for travis-ci build
 exclude: [vendor]
