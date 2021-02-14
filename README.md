@@ -14,7 +14,7 @@ Web, Math, Software & Hardware Development, R&D.
 | **Residence**       | Russia, Moscow       |
 | **E-mail**          | `hidden`             |
 | **Main Languages**  | Python, , C++, SQL, JS, HTML/CSS, etc. |
-| **Current job**     |  |
+| **Current job**     |[Zyfra](https://www.zyfra.com/)|
 | **Speak**           | Russian, English (C1) |
 
 #### Languages / Utilities:
@@ -40,8 +40,7 @@ ____
 | **Name** | **Last Role** | **Year** |
 | :---- | :---- | :---- |
 | [ФГБОУ ВО "НИУ МЭИ" кафедра РТС](https://www.srns.ru/) | Intern | Nov. 2017 - Oct. 2018 |
-| [Zyfra](https://www.zyfra.com/) |  | Oct. 2020 - Present 
-
+| [Zyfra](https://www.zyfra.com/) | Junior Python Developer | Oct. 2020 - Present |
 ____
 ### [Publications (habr.com)](https://habr.com/users)
 
@@ -64,7 +63,6 @@ ____
 - [Course 4: C++ Development Basics: Brown belt](https://www.coursera.org/account/accomplishments/records/QXHLER5PFVHH)
 
 #### Stepic coursers
-[Xilinx Russian Training Center](https://plis2.ru/training.html "Xilinx Russian Training Center")
 
 - [Introduction to Linux](https://stepik.org/cert/892267 )
 - [Git basics](https://stepik.org/cert/799010)
@@ -76,9 +74,6 @@ ____
 ### Python pet-projects
 Author of some technical articles and participant in exhibitions and conferences on digital signal processing:
 
-### Math Projects TO_DO
-- Fast Fourier Transform: Forward / Inverse. Fixed-point, floating-point, scaled / unscaled. Decimation in time / frequency schemes. Radix-2, Radix-4. Natural and Bit/Digit-Reverse Order. 
-- Flexible configurable FFTs by length N. FFTs from 8 to 256K points. 
+### Math Projects
 
-
-Most of these project you can find as **open source** [solutions on my github](https://github.com/capitanov/).  
+Most of these project you can find as **open source** [solutions on my github](https://github.com/diekaltesonne).  
